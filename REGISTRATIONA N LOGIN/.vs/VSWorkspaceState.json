@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoginPage",
+    "\\LoginPage\\LoginPage",
+    "\\LoginPage\\LoginPage\\Controllers",
+    "\\LoginPage\\LoginPage\\Views",
+    "\\LoginPage\\LoginPage\\Views\\Shared"
+  ],
+  "SelectedNode": "\\LoginPage\\LoginPage\\Controllers\\AcountController.cs",
+  "PreviewInSolutionExplorer": false
+}
